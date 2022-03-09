@@ -1,0 +1,14 @@
+1. "git init" -> for initializing the local repository as git repository
+2. Add the files in your new local repository,
+your files now be staged for the first commit
+"git add . "
+3. "git status" -> it will show all the files 
+which you have staged for the commit
+4. commit the files that you have staged in your local repository 
+"git commit -m "first commit" "
+5. copy the remote url 
+6. git remote add origin //paste_the_url_here
+7. pushing the code from the local repository to github 
+"git push -u origin master"
+---username -> enter your github username
+---password -> enter your github password.
